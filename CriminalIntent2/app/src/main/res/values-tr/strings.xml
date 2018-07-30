@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntentS2</string>
+    <string name="crime_title_hint">Bir suc basligi girin</string>
+    <string name="crime_title_label">Suc Basligi</string>
+    <string name="crime_details_label">Detaylar</string>
+    <string name="crime_solved_label">Cozuldu</string>
+    <string name="date_picker_title">Suc Tarihi</string>
+    <string name="new_crime">Yeni Suc</string>
+    <string name="show_subtitle">Altbasligi Goster</string>
+    <string name="hide_subtitle">altbasligi Gizle</string>
+    <string name="subtitle_format">%1$d Suclar</string>
+    <string name="crime_suspect_text">Supheli Sec</string>
+    <string name="crime_report_text">Suc Raporu Gonder</string>
+    <string name="crime_report">%1$s! suc tespit edildi %2$s. %3$s and %4$s</string>
+    <string name="crime_report_solved">Case cozuldu</string>
+    <string name="crime_report_unsolved">Case cozulmedi</string>
+    <string name="crime_report_suspect">Supheli %s</string>
+    <string name="crime_report_no_suspect">Supheli yok..</string>
+    <string name="crime_report_subject">CriminalIntetn Suc Raporu</string>
+    <string name="send_report">Suc raporunu gonder</string>
+</resources>

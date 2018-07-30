@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hunkarlule/Documents/Development/Android/WalkMyAndroid-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/hunkarlule/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/6c3ec59f4f5e6e7c733611e75e222bd2/res/values-land/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "183,264,344,414,483,578",
+                        "endColumns": "80,79,69,68,94,90",
+                        "endOffsets": "263,343,413,482,577,668"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "328,413,497,571,644,743",
+                        "endColumns": "84,83,73,72,98,94",
+                        "endOffsets": "408,492,566,639,738,833"
+                    }
+                },
+                {
+                    "source": "/Users/hunkarlule/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/420d9b2539c46a76b06a5fa21692b6f5/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "838,913,991",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "908,986,1061"
+                    }
+                },
+                {
+                    "source": "/Users/hunkarlule/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199d26eb45f6d5e3f5e0cb4a568a00c9/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

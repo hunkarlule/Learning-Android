@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="Drawable, Styles and Themes"
+        android:textSize="24sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="164dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:onClick="doImage"
+        android:src="@drawable/dog_icon"
+         />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/imageButton"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/myowngradient"
+        android:text="Button 1"
+        android:layout_marginTop="16dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/button_design"
+        android:layout_centerHorizontal="true"
+        android:text="Button 2"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/button"/>
+</RelativeLayout>

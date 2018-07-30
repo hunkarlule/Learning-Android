@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note Bank</string>
+    <string name="delete_note">Delete Note</string>
+    <!--<string name="sfsd">NOTE BANK</string>-->
+    <string name="share_note">Share Note</string>
+    <string name="add_course">Add Course</string>
+</resources>

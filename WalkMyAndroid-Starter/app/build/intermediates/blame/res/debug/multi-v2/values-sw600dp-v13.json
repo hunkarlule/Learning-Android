@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hunkarlule/Documents/Development/Android/WalkMyAndroid-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hunkarlule/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/199d26eb45f6d5e3f5e0cb4a568a00c9/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/Users/hunkarlule/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/420d9b2539c46a76b06a5fa21692b6f5/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "10,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "611,680",
+                        "endColumns": "68,68",
+                        "endOffsets": "675,744"
+                    }
+                }
+            ]
+        }
+    ]
+}
